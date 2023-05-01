@@ -13,11 +13,14 @@
 
 ## Contact Me
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Linkedin logo" title="linkedin luisgsm"/>](https://www.linkedin.com/in/luís-moreira-1a7b58270/)
+<a href = "mailto:luisf.moreira324@gmail.com"><img src="gmail.png" height="30em" align="center" alt="Gmail logo" title="Email luisgsm324"/><a>
+
+-------
 
 [![Luisgsm github stats](https://github-readme-stats.vercel.app/api?username=Luisgsm324&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+Thank you for reading ❤️
 
 <!--
 **Luisgsm324/Luisgsm324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
