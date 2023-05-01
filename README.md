@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🐍 Python
+## About me
+
+- 🙂 I'm 18 years old 
+- 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
+- 🐍 Python Lover
+- 🌱 I'm always learning 
+  
 <!--
 **Luisgsm324/Luisgsm324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
