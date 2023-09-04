@@ -6,7 +6,7 @@
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="250" src="Fire.gif" />
 
-- 🙂 I'm 18 years old 
+- 🙂 I'm 19 years old 
 - 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
 - 🐍 Python Lover
 - 🌱 I'm always learning 
