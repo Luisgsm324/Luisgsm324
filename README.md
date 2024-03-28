@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Luís and welcome to my profile :D
+### I'm Luís and welcome to my profile 
 
 ## About me
 
@@ -8,7 +8,6 @@
 
 - 🙂 I'm 19 years old 
 - 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
-- 🐍 Python Lover
 - 🌱 I'm always learning 
 
 ## Contact Me
@@ -20,19 +19,4 @@
 
 [![Luisgsm github stats](https://github-readme-stats.vercel.app/api?username=Luisgsm324&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Thank you for reading ❤️
-
-<!--
-**Luisgsm324/Luisgsm324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for reading 
