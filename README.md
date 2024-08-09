@@ -4,13 +4,15 @@
 
 ## About me
 
-- 👨‍💻 I'm a intern in <a href = "https://rayconsulting.com.br/">Ray Consulting<a>
-
-
-- 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
-
-
-- 📊 Exploring the Data Engineering field 
+<div>
+  <img align = "right" alt = "rpg gif" width = "250" src = "readme_gif.gif">
+  - 👨‍💻 I'm a intern in <a href = "https://rayconsulting.com.br/">Ray Consulting<a>
+  
+  
+  - 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
+  
+  - 📊 Exploring the Data Engineering field
+</div>
 
 ## Skills
 
