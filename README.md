@@ -5,13 +5,18 @@
 ## About me
 
 <div>
-  <img align = "right" alt = "rpg gif" width = "250" src = "readme_gif.gif">
+  <img align = "right" alt = "rpg gif" width = "300" src = "readme_gif.gif">
+
   - 👨‍💻 I'm a intern in <a href = "https://rayconsulting.com.br/">Ray Consulting<a>
-  
   
   - 🎓 I'm studying Information Systems at <a href = "https://portal.cin.ufpe.br">UFPE<a>
   
   - 📊 Exploring the Data Engineering field
+
+<br>
+<br>
+<br>
+<br>
 </div>
 
 ## Skills
@@ -44,7 +49,5 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Linkedin logo" title="linkedin luisgsm"/>](https://www.linkedin.com/in/luís-moreira-1a7b58270/)
 <a href = "mailto:luisf.moreira324@gmail.com"><img src="gmail.png" height="30em" align="center" alt="Gmail logo" title="Email luisgsm324"/><a>
-
--------
 
 Thank you for reading 
