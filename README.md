@@ -5,7 +5,7 @@
 ## About me
 
 <div>
-  <img align = "right" alt = "rpg gif" width = "300" src = "readme_gif.gif">
+  <img align = "right" alt = "rpg gif" width = "400" src = "teste.gif">
 
   - 👨‍💻 I'm a intern in <a href = "https://rayconsulting.com.br/">Ray Consulting<a>
   
