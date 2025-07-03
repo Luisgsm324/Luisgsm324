@@ -5,6 +5,7 @@
 ABAP Developer at [Accenture Brazil](https://www.accenture.com/br-pt)  
 Information Systems student at [CIn-UFPE](https://portal.cin.ufpe.br/)
 
-- ⚙️ **Skills:** `ABAP`, `ABAP OO`, `CDS Views`, `BAPI`
+- ⚙️ **SAP Skills:** `ABAP`, `ABAP OO`, `CDS Views`, `BAPI`
 - 📚 **Currently learning:** `CAP`, `RAP`, `CPI`, `BPA`
+- 🔨 **Non-SAP Skills:** `Javascript`, `Python`, `Git/Github`, `SQL`, `HTML/CSS`
 - 💬 Feel free to reach out via [email](mailto:luisf.moreira324@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/luissoutomoreira/)
